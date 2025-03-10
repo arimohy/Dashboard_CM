@@ -1,0 +1,13 @@
+Paciente ID,Doctor,Especialidad,Edad,Fecha,Consultas
+1,Dr. Pérez,Cardiología,45,2024-01-01,5
+2,Dr. Gómez,Pediatría,32,2024-01-02,8
+3,Dra. López,Dermatología,29,2024-01-03,6
+4,Dr. Pérez,Cardiología,50,2024-01-04,9
+5,Dra. Gómez,Neurología,40,2024-01-05,7
+6,Dr. Ramírez,Pediatría,12,2024-01-06,3
+7,Dra. López,Dermatología,35,2024-01-07,4
+8,Dr. Ramírez,Neurología,55,2024-01-08,10
+9,Dr. Pérez,Cardiología,60,2024-01-09,2
+10,Dra. Gómez,Pediatría,8,2024-01-10,1
+9,Dr. Pérez,Cardiología,60,2024-01-11,1
+10,Dra. Gómez,Pediatría,8,2024-01-12,5
