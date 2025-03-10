@@ -92,5 +92,7 @@ def actualizar_dashboard(contents, filename):
     
     return df['Paciente ID'].nunique(), df['Doctor'].nunique(), fig_pacientes, fig_doctores, fig_especialidad, fig_edades, fig_consultas
 
+server = app.server  
+
 if __name__ == '__main__':
     app.run_server(debug=True)
